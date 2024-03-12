@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sprites/castle.png</file>
+        <file>sprites/footman.png</file>
+        <file>sprites/forest.png</file>
+        <file>sprites/outpost.png</file>
+        <file>sprites/worker.png</file>
+        <file>sprites/fishinghut.png</file>
+        <file>sprites/miner.png</file>
+        <file>sprites/miner_blur.png</file>
+        <file>sprites/stonemason.png</file>
+        <file>sprites/headquarters.png</file>
+        <file>sprites/desert.png</file>
+        <file>sprites/fisher.png</file>
+        <file>sprites/lumberjack.png</file>
+        <file>sprites/forest2.png</file>
+        <file>sprites/water.png</file>
+        <file>sprites/water2.png</file>
+        <file>sprites/grassland.png</file>
+        <file>sprites/hill.png</file>
+        <file>sprites/swamp.png</file>
+        <file>sprites/swamp2.png</file>
+        <file>sprites/farmer.png</file>
+        <file>sprites/farm.png</file>
+        <file>sprites/hill2.png</file>
+        <file>sprites/employmentoffice.png</file>
+        <file>sprites/lumbermill.png</file>
+        <file>sprites/mine.png</file>
+        <file>sprites/quarry.png</file>
+    </qresource>
+</RCC>
